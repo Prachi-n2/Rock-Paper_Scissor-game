@@ -1,4 +1,3 @@
-Concise README.md for the rock-paper-scissors CLI script.
 # Rock\-Paper\-Scissors
 
 Simple command\-line rock\-paper\-scissors game written in Python.
